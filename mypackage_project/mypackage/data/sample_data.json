@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "first_name": "Иван",
+      "last_name": "Петров",
+      "age": 19,
+      "email": "ivan.petrov@example.com"
+    },
+    {
+      "first_name": "Анна",
+      "last_name": "Сидорова",
+      "age": 20,
+      "email": "anna.s@example.com"
+    },
+    {
+      "first_name": "Мария",
+      "last_name": "Кузнецова",
+      "age": 21,
+      "email": "maria@example.com"
+    }
+  ],
+  "group": {
+    "name": "ПИН-231",
+    "curator": "Иванова М.А."
+  }
+}
